@@ -3,10 +3,10 @@ Ideas for mods and modpacks, free of charge, please make them someone, I'm a cod
 
 ## Mods:
 Mod ideas
-* [Beyond World Fill](../Mods/BeyondWorldFill.md)
-* [Void Elevators](../Mods/VoidElevators.md)
-* [Simple Weather](../Mods/SimpleWeather.md)
-* [Hydroelectric Reservoirs](../Mods/HydroelectricReservoirs.md)
+* [Beyond World Fill](../main/Mods/BeyondWorldFill.md)
+* [Void Elevators](../main/Mods/VoidElevators.md)
+* [Simple Weather](../main/Mods/SimpleWeather.md)
+* [Hydroelectric Reservoirs](../main/Mods/HydroelectricReservoirs.md)
 
 ## Modpacks:
 Modpack ideas
