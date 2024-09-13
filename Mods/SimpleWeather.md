@@ -16,4 +16,4 @@ This mod is designed to be a lightweight local weather mod without all the bloat
 * possibly adds seasons too, or is otherwise compatible with a mod like [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 #### Use:
 This mod would both fit into a lightweight vanilla+ modpack, and augment a tech modpack to make its renewable generation more dynamic.
-It would be recommended for a mod like [Hydroelectric Reservoirs](../Mods/HydroelectricReservoirs.md).
+It would be recommended for a mod like [Hydropower Reservoirs](../Mods/HydropowerReservoirs.md).
