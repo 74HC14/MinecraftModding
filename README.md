@@ -6,7 +6,7 @@ Mod ideas
 * [Beyond World Fill](../main/Mods/BeyondWorldFill.md)
 * [Void Elevators](../main/Mods/VoidElevators.md)
 * [Simple Weather](../main/Mods/SimpleWeather.md)
-* [Hydroelectric Reservoirs](../main/Mods/HydroelectricReservoirs.md)
+* [Hydropower Reservoirs](../main/Mods/HydropowerReservoirs.md)
 
 ## Modpacks:
 Modpack ideas
