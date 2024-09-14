@@ -19,7 +19,7 @@ Ideas for mods and modpacks, free of charge, please make them someone, I'm a cod
 * Dig It All
 
 ## Modding Philosophy Ideas:
-* On Metagaming
+* [On Metagaming](../main/Metagaming.md)
 * On the Depth and Bredth of Progression
 * On Vanilla Plus
 * On Renewables
