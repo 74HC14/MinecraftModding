@@ -12,7 +12,7 @@ Ideas for mods and modpacks, free of charge, please make them someone, I'm a cod
 * Tech Tool Modifiers
 
 ## Modpack Ideas:
-* Sprockets, Islands, and Airships
+* [Sprockets, Islands, and Airships](../main/Modpacks/Sprockets_Islands_Airships.md)
 * Dwarfcore
 * Skyward Reach
 * Vanilla Plus Plus
