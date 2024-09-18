@@ -7,7 +7,7 @@ Ideas for mods and modpacks, free of charge, please make them someone, I'm a cod
 * [Simple Weather](../main/Mods/SimpleWeather.md)
 * [Hydropower Reservoirs](../main/Mods/HydropowerReservoirs.md)
 * Redstone Developed
-* Words of Power
+* [Bibliotic Enchantment](../main/Mods/Bibliotic_Enchantment.md)
 * Deeper Dimensions
 * Tech Tool Modifiers
 
