@@ -10,10 +10,10 @@ Low-ish tech progression modpack. Objectively the best modpack ever conceived.
 * low-tech power mod, especially mechanical like [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 
 #### Auxiliary mods:
-something like like [Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
-large flying hostile animals, like [Ice & Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
-some sort of mod that allows for items in a player’s inventory to change the player’s gravity, like Valkyrien Skies had back in 1.12.2
-something like [Vertically Stacked Dimensions](https://www.curseforge.com/minecraft/mc-mods/vertically-stacked-dimensions)
+* something like like [Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
+* large flying hostile animals, like [Ice & Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+* some sort of mod that allows for items in a player’s inventory to change the player’s gravity, like Valkyrien Skies had back in 1.12.2
+* something like [Vertically Stacked Dimensions](https://www.curseforge.com/minecraft/mc-mods/vertically-stacked-dimensions)
 
 #### Details:
 The player navigates between floating islands via airship. It is entirely possible to make your base be mobile. Resources are found in various situations, like lining cave walls, in large veins, in clouds, and forming deposits underneath the islands. Ideally, there will be flying mobs to discourage naively bridging across the large gaps between islands. The player increases the size of their flying factory by harvesting islands for their resources. Ideally, there will be significant biome differences, giving reason to travel between islands other than just depleting their resources. Though it would also be nice if there was a way to limit the amount of resources you can extract from an island behind tech tiers, causing you to come back to old islands.
